@@ -8,3 +8,7 @@ The project is a sentiment analysis application utilizing the Sentiment140 datas
 Amar Ahmed
 
 Data scientist | Machine Learning Developer | Computer Vision Researcher
+
+linkedin: https://www.linkedin.com/in/amar-ahmed-25b676302/
+kaggle: https://www.kaggle.com/amarahmedhamed
+
